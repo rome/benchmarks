@@ -1,0 +1,21 @@
+[submodule "TypeScript"]
+	path = TypeScript
+	url = https://github.com/microsoft/TypeScript
+[submodule "webpack"]
+	path = webpack
+	url = https://github.com/webpack/webpack
+[submodule "eslint"]
+	path = eslint
+	url = https://github.com/eslint/eslint
+[submodule "freeCodeCamp"]
+	path = freeCodeCamp
+	url = https://github.com/freeCodeCamp/freeCodeCamp
+[submodule "tldraw"]
+	path = tldraw
+	url = https://github.com/tldraw/tldraw
+[submodule "vue"]
+	path = vue
+	url = https://github.com/vuejs/vue/
+[submodule "tools"]
+	path = tools
+	url = http://github.com/rome/tools
